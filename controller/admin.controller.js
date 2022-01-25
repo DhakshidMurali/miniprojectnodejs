@@ -642,8 +642,8 @@ const getEmail = async (req, res, next) => {
     service: "gmail",
     host: "smtp.gmail.com",
     auth: {
-      user: "equizz123@gmail.com",
-      pass: "QWER1234!12341",
+      user: "email123@gmail.com",
+      pass: "email@123",
     },
   });
   console.log(12122);
